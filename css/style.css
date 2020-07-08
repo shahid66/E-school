@@ -1,0 +1,154 @@
+.nav-item{
+    padding: 10px 20px;
+}
+.navbar img{
+width: 150px;
+}
+.sign .nav-item{
+    padding: 10px 40px !important;
+    background-color: green;
+
+    border-radius: 40px;
+}
+.sign .nav-item a{
+    color: white !important;
+}
+.banner{
+    background-color: #f5ffe1  !important;
+}
+.bord img{
+    padding: 50px 0px;
+}
+.text-color{
+    color:green;
+}
+.get-started-btn{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.content-artical{
+    padding: 50px 0px;
+}
+.red{
+    color: red;
+}
+.cat {
+	text-align: center;
+	background-color: #effffd;
+    padding-top: 25px;
+    padding-bottom: 30px;
+	
+    border-radius: 20px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 325px;
+    max-height: 325px;
+}
+.cat:hover{
+    box-shadow: 10px 10px 40px rgb(53, 54, 54);
+    background-color:white;
+}
+.cat h1{
+    font-size: 28px;
+    padding-top: 30px;
+}
+.cat h3{
+    font-size: 14px;
+}
+
+.cat img {
+	max-width: 145px;
+	padding: 36px;
+}
+.catagories{
+    padding-top: 50px;
+}
+.Online-course{
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.card-img, .card-img-top {
+border:none;
+}
+.card-img, .card-img-top {
+	border-top-left-radius: calc(.25rem - 1px);
+	border-top-right-radius: calc(.25rem - 1px);
+	padding: 10px;
+}
+.card {
+	position: relative;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	min-width: 0;
+	word-wrap: break-word;
+	background-color: #fff;
+	background-clip: border-box;
+	border: 0px !important;
+	border-radius: 10px;
+	box-shadow: 3px 6px 12px;
+}
+.buy-course-btn{
+    padding: 10px 20px;
+    border: none;
+    background-color: springgreen;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.card-footer {
+    border: none;
+    background-color: white;
+}
+.card-footer p{
+    font-size: 12px;
+    margin: 0px;
+    padding: 5px;
+}
+.tesi-title{
+    padding-right: 70px;
+    padding-top: 10px;
+}
+
+.list-group-item {
+	position: relative;
+	display: block;
+	padding: .75rem 1.25rem;
+	background-color: black;
+	 border: none;
+}
+.course-title{
+    padding-left: 18px;
+}
+footer{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding: 40px;
+}
+.list-group-item a{
+    text-decoration: none;
+    color: white;
+}
+.list-group-item a:hover{
+    color: orange;
+}
+.testimonial-section{
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.copy{
+    padding-top: 135px;
+}
+.test-img {
+    float: left;
+    overflow: hidden;
+}
+.test-title{
+    float: left;
+}
