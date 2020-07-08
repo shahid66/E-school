@@ -1,6 +1,14 @@
 .nav-item{
     padding: 10px 20px;
+    font-weight: bold;
 }
+.nav-item:hover{
+    padding: 10px 40px !important;
+    background-color: green;
+
+    border-radius: 40px;
+}
+
 .navbar img{
 width: 150px;
 }
@@ -29,9 +37,23 @@ width: 150px;
     border: none;
     border-radius: 15px;
     cursor: pointer;
+    color: white;
 }
+.get-started-btn:hover{
+    padding: 10px 40px !important;
+    background-color: green;
+
+    border-radius: 40px;
+}
+
 .content-artical{
     padding: 50px 0px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.content-artical h1{
+    font-weight: bold;
+    font-size: 48px;
 }
 .red{
     color: red;
@@ -97,9 +119,16 @@ border:none;
 .buy-course-btn{
     padding: 10px 20px;
     border: none;
-    background-color: springgreen;
+    background-color: green;
     border-radius: 40px;
     cursor: pointer;
+    color: white;
+}
+.buy-course-btn:hover{
+    padding: 10px 20px !important;
+    background-color: green;
+    color: black;
+    border-radius: 40px;
 }
 .card-footer {
     border: none;
